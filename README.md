@@ -20,8 +20,8 @@ Um aplicativo web de clima em tempo real, onde você pode buscar o tempo atual d
 
 ## 📸 Demonstração
 
-![screenshot-light](/img/demo-light.png)
-![screenshot-dark](/img/demo-dark.png)
+![Modo Claro](img/demo-light.png)
+![Modo Escuro](img/demo-dark.png)
 
 ## 🧠 O que aprendi
 
