@@ -18,14 +18,12 @@ Um aplicativo web de clima em tempo real, onde você pode buscar o tempo atual d
 - Font Awesome (para ícones)
 - API: [OpenWeatherMap](https://openweathermap.org/)
 
-## 📸 Demonstração
+### 📸 Demonstração
 
-> Adicione aqui uma imagem ou gif do projeto (modo claro e escuro).
->
-> ![screenshot-light](./img/demo-light.png)
-> ![screenshot-dark](./img/demo-dark.png)
+![Modo Claro](img/demo-light.png)
+![Modo Escuro](img/demo-dark.png)
 
-## 🧠 O que aprendi
+### 🧠 O que aprendi
 
 - Trabalhar com requisições assíncronas usando `fetch` e `async/await`
 - Manipular DOM dinamicamente
